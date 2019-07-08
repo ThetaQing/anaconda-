@@ -1,0 +1,6 @@
+第一步：访问官网https://pytorch.org/
+第二步：在官网下面QUICK START LOCALLY部分选择对应的版本
+第三步：在prompt下输入对应的命令
+win7系统，python36，pip安装命令：
+pip install https://download.pytorch.org/whl/cpu/torch-1.1.0-cp36-cp36m-win_amd64.whl
+pip install https://download.pytorch.org/whl/cpu/torchvision-0.3.0-cp36-cp36m-win_amd64.whl
